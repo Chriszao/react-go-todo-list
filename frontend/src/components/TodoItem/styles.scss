@@ -1,0 +1,12 @@
+.todo-item {
+  padding: 1.5rem;
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background-color: var(--foreground);
+  border-radius: 0.5rem;
+
+  margin-bottom: 1.5rem;
+}
